@@ -1,0 +1,47 @@
+#container {
+    width: 80%;
+    margin: 20px auto;
+    background-color: yellow;
+
+    }
+
+    #div1 {
+        background-color: blue;
+        color: white;
+        text-align: center;
+        margin: 10px 10px 10px 10px;
+        
+    }
+
+    #div2 {
+        float: left;
+        width: 33%;
+        height: 150px;
+        background-color: brown
+
+    }
+
+    #div3 {
+        
+        background-color: royalblue;
+        float: left;
+        height: 150px;
+        width: 33%;
+        padding-right: 1%;
+        }
+
+    #div4 {
+        
+        float: left;
+        height: 150px;
+        width: 33%;
+        background-color: goldenrod;
+    }
+
+    #div5 {
+        float: left;
+        width: 100%;
+        margin-top: 10px;
+
+        background-color: fuchsia;        
+    }
